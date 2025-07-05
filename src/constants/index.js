@@ -294,60 +294,68 @@ const projects = [
     live_project_link: "https://drive.google.com/file/d/1p_MCV3fJ5xFQbYZUHrgbL3NTQHKRyDoQ/view?usp=sharing",
   },
   {
-    name: "Progress Tracker Dashboard 🔍",
+    name: "Expense Tracker Dashboard 🔍",
     description:
-      ["Built a dynamic dashboard using the MERN stack for real-time data visualization and analytics.", "Integrated interactive charts, filters, and insights for efficient metric tracking.", "Designed a responsive UI with RESTful APIs for seamless data handling and accessibility."],
+      ["Implemented CRUD operations to add and categorize income/expenses using Spring Boot and JDBC.", "Enhanced data visualization by creating line charts, bar charts, and pie charts to effectively illustrate spending trends.", "Optimized back-end data handling and deployed the application using Apache Tomcat for production readiness."],
     tags: [
       {
-        name: "Mongo DB",
+        name: "Java",
         color: "blue-text-gradient",
       },
       {
-        name: "Express JS",
+        name: "Spring Boot",
         color: "green-text-gradient",
       },
       {
-        name: "React JS",
+        name: "JDBC",
         color: "pink-text-gradient",
       },
       {
-        name: "Node JS",
+        name: "MySQL",
         color: "blue-text-gradient",
       },
       {
-        name: "Rest API",
+        name: "Apache Tomcat",
         color: "green-text-gradient",
       },
     ],
-    image: dashboard,
-    source_code_link: "https://github.com/vishal-1809/nindra",
-    live_project_link: "https://vishal1809-nindra.netlify.app/",
+    image: 'https://raw.githubusercontent.com/vishal-1809/expense-tracker/refs/heads/main/src/main/resources/static/assets/output/2.png',
+    source_code_link: "https://github.com/vishal-1809/expense-tracker",
+    live_project_link: "https://drive.google.com/file/d/1QR-iA974ngDDXWVjg4OHo3jCU2a-AUxW/view?usp=sharing",
   },
   {
-    name: "Covid Tracker 🧪",
+    name: "Java-Based Web Chat Application 🧪",
     description:
-      ["Developed a COVID-19 tracker for Indian states using HTML, CSS, JS, and REST API.", "Fetched and displayed real-time COVID data, including cases, recoveries, and fatalities.", "Designed a responsive and interactive UI for easy data visualization and state-wise tracking.", "Enabled live updates to keep users informed with the latest COVID-19 statistics."],
+      ["Built secure login, sign-up, and logout functionalities with session management.", "Designed and implemented one-to-one chat functionality with user-specific message storage.", "Deployed using Apache Tomcat and Maven, ensuring modularity and efficient dependency management."],
     tags: [
       {
-        name: "HTML",
+        name: "Java",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "JSP",
         color: "green-text-gradient",
       },
       {
-        name: "Javascript",
+        name: "Servlets",
         color: "pink-text-gradient",
       },
       {
-        name: "Restful API",
+        name: "JDBC",
         color: "blue-text-gradient",
       },
+      {
+        name: "MySQL",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Apache Tomcat",
+        color: "pink-text-gradient",
+      },
     ],
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG2g2iZBEmjU8mB9XCzlo8smKV9OOmfYY85vt9DajGsO3CHOdiA8lWxslpXeGMkfvKPHI&usqp=CAU",
-    source_code_link: "https://github.com/vishal-1809/covid_tracker",
-    live_project_link: "https://vishal-1809.github.io/covid_tracker",
+    image: "https://raw.githubusercontent.com/vishal-1809/java-chat-application/main/src/main/webapp/output/1.png",
+    source_code_link: "https://github.com/vishal-1809/java-chat-application",
+    live_project_link: "https://drive.google.com/file/d/1iOPv28AYw7BxSvAq1qD9RxNpD9FjjElS/view",
   },
 ];
 

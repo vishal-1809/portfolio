@@ -136,7 +136,7 @@ const About = () => {
             <motion.li className="flex items-start" variants={fadeIn("up", "spring", 0.1, 0.75)}>
               <span className="mr-4 text-2xl flex-shrink-0">👨‍💻</span>
               <span>
-                I&apos;m a Full-Stack Developer with 1.5+ years of experience in building scalable applications. Passionate about crafting seamless user experiences and robust backend systems for optimal performance.
+                I&apos;m a Full-Stack Developer with 2 years of experience in building scalable applications. Passionate about crafting seamless user experiences and robust backend systems for optimal performance.
               </span>
             </motion.li>
             <motion.li className="flex items-start" variants={fadeIn("up", "spring", 0.2, 0.75)}>
